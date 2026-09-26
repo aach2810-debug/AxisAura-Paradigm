@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/records/22963892)](https://doi.org)
+
+# AxisAura Paradigm / Framework Axis-Atom (1 Aa)
+
 Axis-Atom: фреймворк спектральной адресации для пассивных
 интерфейсов — от космических линий связи до квантовых регистров
 
